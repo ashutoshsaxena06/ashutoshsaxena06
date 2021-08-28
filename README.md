@@ -1,16 +1,16 @@
 👋 Hi there, I'm Ashutosh
 
- [[params.social]]
+[[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/ashutosh-s-74950653"
 
- [[params.social]]
+[[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/ashutoshsaxena06"
 
- [[params.social]]
+[[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/"
